@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\Solution.ipybn||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Solution.ipybn||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\rnap_2024_II_exercises_and_examples_numpy.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rnap_2024_II_exercises_and_examples_numpy.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-09T02:08:10.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.ipybn",
+              "DocumentMoniker": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\Solution.ipybn",
+              "RelativeDocumentMoniker": "Solution.ipybn",
+              "ToolTip": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\Solution.ipybn",
+              "RelativeToolTip": "Solution.ipybn",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T02:11:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rnap_2024_II_exercises_and_examples_numpy.ipynb",
+              "DocumentMoniker": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\rnap_2024_II_exercises_and_examples_numpy.ipynb",
+              "RelativeDocumentMoniker": "rnap_2024_II_exercises_and_examples_numpy.ipynb",
+              "ToolTip": "C:\\Users\\Juan David\\Documents\\GitHub\\ejercicios-y-ejemplos-con-numpy-JuanBarragan2003\\rnap_2024_II_exercises_and_examples_numpy.ipynb",
+              "RelativeToolTip": "rnap_2024_II_exercises_and_examples_numpy.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T02:08:01.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
